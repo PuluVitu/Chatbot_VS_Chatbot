@@ -59,7 +59,7 @@ Para o futuro, eu ainda quero terminar esse projeto e fazer melhor. Quero aprend
 
 - O médico especialista faria perguntas detalhadas sobre o histórico médico do paciente, estilo de vida, hábitos alimentares e qualquer desconforto ou mudança sutil que o paciente possa ter notado. A IA que representa o paciente responderia com base em um perfil médico pré-definido, fornecendo informações que, à primeira vista, podem parecer insignificantes, mas que, para um médico treinado, poderiam ser sinais de alerta.
 
-# Como funcionaria?
+# Como funciona?
 
 ![🤖](https://github.com/PuluVitu/Chatbot_VS_Chatbot/assets/169564540/c9584297-6b79-49f4-a4da-16475c50f5b4)
 
