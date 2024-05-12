@@ -54,7 +54,27 @@ Para o futuro, eu ainda quero terminar esse projeto e fazer melhor. Quero aprend
 
 # Como funcionaria?
 
+![🤖](https://github.com/PuluVitu/Chatbot_VS_Chatbot/assets/169564540/c9584297-6b79-49f4-a4da-16475c50f5b4)
 
+Cada Inteligencia artificial representada como um robo na foto, teria capacidade de armazenar e ler um contexto que estaria em um documento .txt, nesse documento você poderia inserir parametros como:
+
+- Temperatura: 0 - 1
+- Top P: 0 - 1
+- Top k: 0 - 100
+- Configurações de segurança: BLOCK_NONE - BLOCK_ONLY_HIGH - BLOCK_MEDIUM_AND_ABOVE - BLOCK_LOW_AND_ABOVE
+- Exemplos (few-short-learning): base de dados para tomar como exemplo
+- Contextos: qualquer contexto que quiser inserir
+- Personalidade: se a máquina vai ser casual, objetiva, direta, criativa, especulativa, descontraída...
+
+Representado na foto assim ⬇️. Apenas para ilustrar como seria esses parametros na linguagem python.
+
+"temperature": ...,
+    "top_p": ...,
+    "top_k": ...,
+    "safety_settings": {...},
+    "examples": [...],
+    "context": "...",
+    "personality": "..."
 
 
 
